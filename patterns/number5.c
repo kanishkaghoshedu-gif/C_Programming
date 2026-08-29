@@ -12,6 +12,13 @@ int main() {
         }
         printf("\n");
     }
+    //alt.
+    /*for(i = 1; i <= rows; i++){
+        for(j = rows; j >= i; j--){
+                printf("%d", j);
+            }
+        printf("\n");
+    }*/
 
     return 0;
 }

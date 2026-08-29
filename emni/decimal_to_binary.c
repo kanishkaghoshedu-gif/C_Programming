@@ -29,3 +29,18 @@ int main() {
 
     return 0;
 }
+/*#include <stdio.h>
+
+int main() {
+    int n;
+    printf("Enter a number: ");
+    scanf("%d", &n);
+
+    printf("4-bit Binary: ");
+
+    for (int i = 3; i >= 0; i--) {
+        printf("%d", (n >> i) & 1);
+    }
+
+    return 0;
+}*/
