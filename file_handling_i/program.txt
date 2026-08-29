@@ -1,0 +1,3 @@
+Pen : Rs. 2
+Pencil : Rs. 8
+Total Price: Rs. 10
